@@ -1,2 +1,9 @@
-# cv
-https://suyogwaghere.github.io/cv/
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3S99GWDYCR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3S99GWDYCR');
+</script>
